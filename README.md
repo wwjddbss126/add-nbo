@@ -24,3 +24,7 @@ sample : add-nbo a.bin c.bin
 
 # 기타
 git에는 소스 코드(h, c, cpp)만 올리지 말고 프로젝트 파일(Makefile 혹은 *.pro)도 같이 올릴 것.
+
+---
+# 실행 결과
+ ![image](https://user-images.githubusercontent.com/49504937/126275351-31da306d-0968-4234-975f-5bbf58dadc96.png)
